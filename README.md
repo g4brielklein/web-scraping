@@ -1,2 +1,1 @@
-# web-scraping
-Web scraping com node.js
+Web scraper simples com node.js utilizando cheerio e request
