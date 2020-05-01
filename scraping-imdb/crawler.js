@@ -13,7 +13,7 @@ request('http://www.imdb.com/chart/moviemeter', function(err, res, body) {
 
        console.log('Titulo: ' + title);
 
-       fs.appendFile('imdb.txt', title + ' ' + rating + '\n', function (err) {
+        fs.appendFile('imdb.txt', title + ' ' + rating + '\n', function (err) {
            if (err) throw err;
            console.log('Arquivo salvo com sucesso!');
        });

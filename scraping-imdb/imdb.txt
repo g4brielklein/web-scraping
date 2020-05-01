@@ -1,9 +1,6 @@
 Resgate 6.8
 Era Uma Vez em... Hollywood 7.7
-Magnatas do Crime 7.9
-O Poço 7.0
 Duna 
-365 dias 3.4
 Parasita 8.6
 Code 8: Renegados 6.1
 Trolls 2 6.1
@@ -11,11 +8,14 @@ Valley Girl
 Entre Facas e Segredos 7.9
 Bad Boys Para Sempre 6.8
 Sergio 6.2
+365 dias 3.4
 Capone 
+O Poço 7.0
+Magnatas do Crime 7.9
 Os Irmãos Willoughby 6.5
 A Ilha da Fantasia 4.8
-1917 8.3
 Ameaça Profunda 5.9
+1917 8.3
 Vingadores: Ultimato 8.4
 Coringa 8.5
 Star Wars: A Ascensão Skywalker 6.7
